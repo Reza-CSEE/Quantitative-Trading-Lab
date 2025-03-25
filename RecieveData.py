@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-API_KEY = " 67b516bbaee706.70967721"
+api_key = "#####################"  # Insert your API Key
 STOCK = "AAPL"
 EXCHANGE = "US"  # بازار آمریکا
 START_DATE = "2024-01-01"
