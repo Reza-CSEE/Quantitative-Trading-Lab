@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 
 # 📌 **تنظیمات**
 TICKER = "AAPL"
-API_KEY = "BCnibG6TFwiypPXLQW6cqy5cdcLAP0bf"
+api_key = "#####################"  # Insert your API Key
 
 EXCEL_FILENAME = "/Users/rezaghasemi/Downloads/Programming/Quantitative/Sentiment_Trading_Data.xlsx"
 
