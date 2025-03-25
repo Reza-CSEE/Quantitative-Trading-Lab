@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
 # 📌 **۱. دریافت داده‌های تاریخی از Polygon.io**
-API_KEY = "BCnibG6TFwiypPXLQW6cqy5cdcLAP0bf"
+api_key = "#####################"  # Insert your API Key
 TICKER = "AAPL"
 START_DATE = "2023-01-01"
 END_DATE = "2024-01-01"
