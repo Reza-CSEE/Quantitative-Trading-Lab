@@ -8,7 +8,7 @@ import os
 ticker = "AAPL"
 start_date = "2023-01-09"
 end_date = "2024-12-10"
-api_key = "BCnibG6TFwiypPXLQW6cqy5cdcLAP0bf"  # API Key را وارد کنید
+api_key = "#####################"  # Insert your API Key
 
 # مسیر ذخیره فایل
 save_path = "/Users/rezaghasemi/Downloads/Programming/Quantitative/AAPL_SMA_Crossover.csv"
