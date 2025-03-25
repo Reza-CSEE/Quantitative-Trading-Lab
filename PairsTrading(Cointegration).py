@@ -6,7 +6,7 @@ import os
 from statsmodels.tsa.stattools import adfuller
 
 # 📌 **Retrieve historical stock data from Polygon.io**
-API_KEY = "BCnibG6TFwiypPXLQW6cqy5cdcLAP0bf"  # 🔹 Insert your API Key
+api_key = "#####################"  # Insert your API Key
 #TICKER1 = "MSFT"
 #TICKER1 = "BRK.A"
 TICKER1 = "V"
