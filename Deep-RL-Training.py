@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 
 # 📌 **تنظیمات**
 TICKER = "AAPL"
-API_KEY = "BCnibG6TFwiypPXLQW6cqy5cdcLAP0bf"
+api_key = "#####################"  # Insert your API Key
 
 # 📌 **📊 دریافت داده‌های تاریخی از Polygon.io**
 start_date = (datetime.today() - timedelta(days=365)).strftime('%Y-%m-%d')
