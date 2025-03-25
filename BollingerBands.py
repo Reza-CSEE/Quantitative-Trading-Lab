@@ -7,7 +7,7 @@ import os
 ticker = "AAPL"
 start_date = "2023-01-09"
 end_date = "2024-12-10"
-api_key = "BCnibG6TFwiypPXLQW6cqy5cdcLAP0bf"  # Insert your API Key
+api_key = "#####################"  # Insert your API Key
 
 # File save path
 save_path = f"/Users/rezaghasemi/Downloads/Programming/Quantitative/{ticker}_BollingerBands_Strategy.csv"
